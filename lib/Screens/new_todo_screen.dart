@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:todoslist/Widgets/common_button_widget.dart';
 import 'package:todoslist/models/todo_list.dart';
 import 'package:todoslist/services/database_services.dart';
-
 import '../Widgets/common_textfield_widget.dart';
 
 class NewTodoScreen extends StatelessWidget {
